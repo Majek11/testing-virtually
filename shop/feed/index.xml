@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shop &#8211; Virtually Safe</title>
+	<atom:link href="http://localhost/shop/feed/?simply_static_page=3511" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Online Safety &#124; Cyber 360 Helpline &#124; Cyberspace Conference &#124; Safer Gambling &#124; Csam &#124; School Clubs &#124; Resources &#124; Advocacy</description>
+	<lastBuildDate>Fri, 05 Jul 2024 11:17:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/07/cropped-VS-Icon-01@15x-32x32.png</url>
+	<title>Shop &#8211; Virtually Safe</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bambi Board Game</title>
+		<link>/product/bambi-board-game/</link>
+					<comments>/product/bambi-board-game/#respond</comments>
+		
+		<dc:creator><![CDATA[virtuallysafe]]></dc:creator>
+		<pubDate>Tue, 27 Dec 2022 12:40:59 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1327</guid>
+
+					<description><![CDATA[Bambi is an educational fun paced board game that teaches online safety in a fun and interactive way.
+
+The board game takes 2-6 players, for ages 10 and up. Players navigate an engaging board filled with rewards and cyber risks, creating stronger passwords and avoiding dangerous internet attacks while trying to earn as much ruby as they can.]]></description>
+										<content:encoded><![CDATA[<p>Bambi is an educational fun paced board game that teaches online safety in a fun and interactive way.</p>
+<p>The board game takes 2-6 players, for ages 10 and up. Players navigate an engaging board filled with rewards and cyber risks, creating stronger passwords and avoiding dangerous internet attacks while trying to earn as much ruby as they can.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/bambi-board-game/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Branded cup</title>
+		<link>/product/branded-cup/</link>
+					<comments>/product/branded-cup/#comments</comments>
+		
+		<dc:creator><![CDATA[virtuallysafe]]></dc:creator>
+		<pubDate>Tue, 27 Dec 2022 12:39:36 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1326</guid>
+
+					<description><![CDATA[Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor.
+
+Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum.]]></description>
+										<content:encoded><![CDATA[<p>Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum. Stet clitain vidunt ut labore eirmod tempor invidunt magna aliquyam.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/branded-cup/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
